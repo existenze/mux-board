@@ -4106,7 +4106,7 @@
 	)
 	(symbol
 		(lib_id "ADG1204YRUZ:ADG1204YRUZ")
-		(at 240.03 154.94 90)
+		(at 259.08 167.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4115,7 +4115,7 @@
 		(fields_autoplaced yes)
 		(uuid "188f4e99-2d1f-4170-bcb5-0e21f2eb0e39")
 		(property "Reference" "U4"
-			(at 261.62 125.7299 90)
+			(at 280.67 138.4299 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4124,7 +4124,7 @@
 			)
 		)
 		(property "Value" "ADG1204YRUZ"
-			(at 261.62 128.2699 90)
+			(at 280.67 140.9699 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4133,7 +4133,7 @@
 			)
 		)
 		(property "Footprint" "RU_14_ADI"
-			(at 240.03 154.94 0)
+			(at 259.08 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4143,7 +4143,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1204.pdf"
-			(at 240.03 154.94 0)
+			(at 259.08 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4153,7 +4153,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 154.94 0)
+			(at 259.08 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
